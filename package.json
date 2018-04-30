@@ -28,5 +28,8 @@
     "data.maybe": "^1.2.0",
     "data.task": "^3.0.0",
     "xps": "^1.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^4.3.1"
   }
 }
