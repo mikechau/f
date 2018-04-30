@@ -7,7 +7,8 @@
     "fuck": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg index.js -t node8-linux --output build/fuck"
   },
   "repository": {
     "type": "git",
